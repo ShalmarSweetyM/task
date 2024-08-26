@@ -1,0 +1,13 @@
+.container{
+    background-color:whitesmoke;
+    
+}
+img{
+    height: 390px;
+    width: 390px;
+}
+.mask{
+    border-radius: 180px;
+    /* -webkit-mask-image:linear-gradient(red,transparent);
+    -webkit-mask-image:radial-gradient(ellipse,green 70%,rgba(30,255,40,0.4) 70%); */
+}

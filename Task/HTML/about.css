@@ -1,0 +1,11 @@
+.content {
+    background-image: linear-gradient(rgba(217, 220, 220, 0.946), rgba(217, 220, 220, 0.946));
+    
+}
+
+.main-content {
+    background-image: url(https://t3.ftcdn.net/jpg/05/79/48/52/360_F_579485255_hzHox0stuQmBx5QViwnQqQjk7RD2AJza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
